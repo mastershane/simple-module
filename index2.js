@@ -1,3 +1,6 @@
-export default addFive = function(number){
+ function addFive(number){
     return number + 5;
 }
+
+export default addFive;
+
